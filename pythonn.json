@@ -1,0 +1,12 @@
+
+{
+    "Name":"Oriswurld📸",
+    "role": "Photographer",
+    "skills": ["Photographer" , "Python", "Javascript"] ,
+    "experience":{
+        "years": 6,
+        "specialization": "Photography, Videography and Back End Developmet"
+    },
+    "available_for_remote": true
+
+}
